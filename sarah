@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarah's favorite Animal</title>
+</head>
+<body>
+    <h1>Sarah's Favorite Animal</h1>
+    <div id = "navBar">
+        <h4>Home</h4>
+        <h4>Fun Facts</h4>
+    </div>
+    <div>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sportingjournal.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fjulymoose.jpg&f=1&nofb=1&ipt=1959c5c8570c30eba1117abfa22fb774ad644393c2c4b88c92b10ae850d5ce63&ipo=images" alt="moose">
+    </div>
+    <div>
+        <p>
+            My name is Sarah, and my favorite animal is the moose. <br>  They can be up to 6.5 feet tall and weigh 1200 pounds.<br> Surprisingly, theyre really good at swimming!<br> <br> If you want to learn more about the moose, check out its Wikipedia page.
+
+        </p>
+    </div>
+    <div>
+        <h2>Moose are awsome because...</h2>
+        <br>
+        <ol>
+            <li>They can swim really well</li>
+            <li>They can make really funny moises</li>
+            <li>They can close their nostrils</li>
+        </ol>
+    </div>
+    <div>
+        <h2>If I were a moose, I would...</h2>
+        <br>
+        <ul>
+            <li>Eat lots of lettuce</li>
+            <li>Carry little animals on my antlers</li>
+            <li>Swim to Alaska</li>
+        </ul>
+    </div>
+</body>
+</html>
